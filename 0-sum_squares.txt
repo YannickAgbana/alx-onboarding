@@ -1,0 +1,35 @@
+This program calculates the sum of squares of given input of numbers
+  
+
+}
+function InputNum(m, n, o,..)
+  
+end
+}
+
+}
+function SqrtIndNum(m*m, n*n, o*o,..)
+  
+end
+}
+
+function SumSqrt(Argument one, Argument two, ..., Argument n){
+  
+    calculate the sum of squares of given input of number
+  
+    While Argument = m*m or n*n or o*o,..
+  
+    return sum of squares
+end
+{
+In the main function
+     
+   print prompt "Input numbers of choice"
+         
+   Take the first number from the user
+   Take the second number from the user
+   Take the nth number from the user
+  
+   Send the numbers to the SumSqrt function and print
+   the result to the user   
+}

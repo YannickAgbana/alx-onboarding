@@ -1,0 +1,37 @@
+This program reads in three numbers and writes them all in sorted order
+  
+
+}
+function SortNum(Argument one, Argument two, Argument three)
+  
+end
+}
+
+}
+function ReadNum(n1, n2, n3)
+  
+end
+}
+
+}
+function WrtNum(n1, n2, n3)
+  
+end
+}
+
+function SortNum(Argument one, Argument two, Argument three)
+{  
+    return sort numbers
+end
+{
+In the main function
+     
+   print prompt "Input three numbers"
+         
+   Take the first number from the user
+   Take the second number from the user
+   Take the third number from the user
+  
+   Send the numbers to the SortNum function and print
+   the result to the user   
+}

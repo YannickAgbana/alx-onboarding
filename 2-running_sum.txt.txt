@@ -1,0 +1,32 @@
+This program calculate running sum
+  
+
+function RunSum(Argument one, Argument two){
+  
+    Calculate running sum of Argument
+    1 and Argument 2
+  
+    return running sum
+end
+}
+function Sum(Argument one, Argument two){
+    if Argument two is negative
+        then return Argument one
+  
+    return the last sum
+  
+end
+}
+  
+{
+In the main function
+     
+   print prompt "Input two numbers"
+         
+   Take the first number from the user
+   Take the second number from the user
+   Take the nth number from the user until negative number
+  
+   Send the sum of numbers to the RunSum function and print
+   the result to the user   
+}
